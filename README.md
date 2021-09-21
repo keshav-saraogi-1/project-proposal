@@ -1,4 +1,4 @@
-# Individual-Project-Proposal
+# Individual-Project-Proposal - Flight Price Tracker
 
 ## Project-Abstract
 In this project proposal, I would like to implement a Flight Price Tracker bot that attempts to find the user a lower/similar price for a flight to the preferred destination. 
